@@ -14,7 +14,7 @@ function AboutCard() {
             <br />
             I am a young <b className="purple">tech enthusiast</b> hoping serve the world with my skillset and abilities. 
             <br />
-            I have recently working on a tech product which is a <b className="purple">casual academic exploration app</b>. And also working in the field of <b className="purple">Quantum Engineering</b>, researching about <span className="purple">the use of photons to enable Quantum Communications</span>.
+            I have recently been working on a tech product which is a <b className="purple">casual academic exploration app</b>. And also working in the field of <b className="purple">Quantum Engineering</b>, researching about <span className="purple">the use of photons to enable Quantum Communications</span>.
             <br />Hit my DMs in case you would like to know more or collaborate.
           </p>
 
