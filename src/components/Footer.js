@@ -63,15 +63,16 @@ function Footer() {
               </a>
             </li>
             <li className="social-icons">
-                <a
-                  href="https://swarn.hashnode.dev/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <SiHashnode />
-                </a>
-              </li>
+              <a
+                href="https://swarn.hashnode.dev/"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <SiHashnode  />
+              </a>
+            </li>
+            
           </ul>
         </Col>
       </Row>
