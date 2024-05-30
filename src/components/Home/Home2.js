@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import ppf from "./ppf.JPG"
+import ppf from "./logo-new.png"
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
