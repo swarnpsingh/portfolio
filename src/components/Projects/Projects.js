@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import password from "../../Assets/Projects/password.png";
+import muwci from "../../Assets/Projects/muwci.png";
 import image from "../../Assets/Projects/image.png";
 import login from "../../Assets/Projects/login.png";
 import leeds from "../../Assets/Projects/leeds.png";
@@ -20,6 +21,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={muwci}
+              isBlog={false}
+              title="Password Generator"
+              description="Password Generator web tool to generate random passwords. Length of the password is given by the user, the tool also gives an option to keep or not keep numbers and characters."
+              ghLink="https://github.com/swarnpsingh/MUWCI-RoomScout"
+              demoLink="https://roomscout.vercel.app/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={password}

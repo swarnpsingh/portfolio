@@ -20,7 +20,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a senior student at 
+              I am a senior at 
               <i>
                 <b className="purple"> The Mahindra United World College of India </b>
               </i>
@@ -29,14 +29,9 @@ function Home2() {
               <br />I love the philosophy of building and have been deeply inclined towards it since a really young age.
               <br />
               <br />
-              I have worked on startup projects like &nbsp;
+              I am currently working on a tech-startup &nbsp;
               <i>
-                <b className="purple">CODIA, </b>
-                <b className="purple">
-                  BMC Design Media, </b>
-                <b className="purple">
-                  and Pratap Library.
-                </b>
+                <b className="purple">notifybear. </b>
               </i>
               <br />
               <br />
